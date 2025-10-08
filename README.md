@@ -12,3 +12,5 @@ Lägg till en ny rad längst ner i listan enligt formatet
 
 ## Våra contributors
 - [Emanuel Ländell](https://github.com/learnwithlandell) - Lär mig just nu: [Skapa ett digitalt cv i github](https://github.com/learnwithlandell/commit-to-learn)
+
+- [Stephanie Camilton](https://github.com/StephanieCamilton) - Lär mig just nu: [Skapa ett digitalt cv i github](https://stephaniecamilton.github.io/online-cv/)
